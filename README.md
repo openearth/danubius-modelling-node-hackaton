@@ -1,2 +1,2 @@
-# danubius-modelling-notes-hackaton
-Danubius Modelling Notes Hackaton
+# danubius-modelling-node-hackaton
+Danubius Modelling Node Hackaton
