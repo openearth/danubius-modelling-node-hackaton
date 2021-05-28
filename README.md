@@ -24,9 +24,11 @@ We have enabled **_[Discussions](https://github.com/openearth/danubius-modelling
 
 The [discussion forum](https://github.com/openearth/danubius-modelling-node-hackaton/discussions) is a place for you to mingle with your peers, discuss technical issues, ask questions, collaborate and share ideas. Treat it as your own, and help cultivate a healthy, diverse ecosystem. Discussions can be open-ended, and is best when there is a sincere exchange of opinions. 
 
-We encourage questions. To ask questions, please go to the [discussions](https://github.com/openearth/danubius-modelling-node-hackaton/discussions) tab and click on `New discussion`. Under `Select Category`, select `Q&A`, provide a human readable title and ask your question and click `Start discussion`. 
+To get started please introduce yourself in the [welcome post](https://github.com/openearth/danubius-modelling-node-hackaton/discussions/1).
 
-We value being welcoming and courteous. Our [discussion guidelines](https://github.com/openearth/danubius-modelling-node-hackaton/blob/main/discussion_guidelines.md) describe what is considered good practice and encourage positive behaviour and we ask that you adhere to our guidelines. Please introduce yourself in the [welcome post](https://github.com/openearth/danubius-modelling-node-hackaton/discussions/1).
+We value being welcoming and courteous. Our [discussion guidelines](https://github.com/openearth/danubius-modelling-node-hackaton/blob/main/discussion_guidelines.md) describe what is considered good practice and encourage positive behaviour and we ask that you adhere to our guidelines. 
+
+We encourage questions. To ask questions, please go to the [discussions](https://github.com/openearth/danubius-modelling-node-hackaton/discussions) tab and click on `New discussion`. Under `Select Category`, select `Q&A`, provide a human readable title and ask your question and click `Start discussion`. 
 
 This discussion forum is supported by [DANUBIUS-RI](https://www.danubius-ri.eu/) and is operated by [Deltares](https://www.deltares.nl/en/), for you, in the Commons. 
 
