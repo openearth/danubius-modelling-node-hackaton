@@ -20,7 +20,7 @@ https://github.com/openearth/danubius-modelling-node-hackaton/blob/main/scripts/
 4. In December 2021 another DANUBIUS-RI Modelling Node online event will be held, and part of the agenda for that event is for the various River-Sea System modelling communities participating in the hackathon to present the outcome of their work.
 
 ### Support during the _homework_ phase
-We have enabled **_Discussions_** in this repository: https://github.com/openearth/danubius-modelling-node-hackaton/discussions. **_Discussions_** will be the primary mechanism through which the community will engage and collaborate with each other during the **_homework_** phase of the hackathon.
+We have enabled **_[Discussions](https://github.com/openearth/danubius-modelling-node-hackaton/discussions)_** in this repository. **_Discussions_** will be the primary mechanism through which the community will engage and collaborate with each other during the **_homework_** phase of the hackathon.
 
 The [discussion forum](https://github.com/openearth/danubius-modelling-node-hackaton/discussions) is a place for you to mingle with your peers, discuss technical issues, ask questions, collaborate and share ideas. Treat it as your own, and help cultivate a healthy, diverse ecosystem. Discussions can be open-ended, and is best when there is a sincere exchange of opinions. 
 
