@@ -19,6 +19,16 @@ https://github.com/openearth/danubius-modelling-node-hackaton/blob/main/scripts/
 3. In September 2021 (exact dates to be confirmed) a dedicated 1 or 2 day (online) hackathon will be hosted for the community to get together and jointly work on their developments.
 4. In December 2021 another DANUBIUS-RI Modelling Node online event will be held, and part of the agenda for that event is for the various River-Sea System modelling communities participating in the hackathon to present the outcome of their work.
 
+## Homework
+1. Clone this repository
+2. Create a new branch for your model community
+3. Working in the branch, adapt the python scripts to write output from your model to a netCDF4 UGRID file.
+
+**Useful tools / resources**:
+* GitHub Desktop: https://desktop.github.com/
+* git - the simple guide: http://rogerdudler.github.io/git-guide/
+
+
 ### Support during the _homework_ phase
 We have enabled **_[Discussions](https://github.com/openearth/danubius-modelling-node-hackaton/discussions)_** in this repository. **_Discussions_** will be the primary mechanism through which the community will engage and collaborate with each other during the **_homework_** phase of the hackathon.
 
